@@ -1,14 +1,16 @@
-# Test-coverage
-here the 4 things you should do first to tame the beast and improve test coverage:
-1. Add the Right Test
-  i. Create tests as you fix bugs
-  ii. Create tests with all new features
-  iii. Create tests as you add to old features
-  iv. Create tests in identified risk areas
-  
-2. Turn on Code Coverage
-For this to be useful, follow these steps:
-  I. Start running code coverage against all your code
-  II.Get a baseline
-  III.Determine areas that you want to exclude.
-  IV.Determine coverage goals
+Test coverage
+
+review is very key thing in testing and each phase of testing review should be incorporate,testcases coverage should be cover with the scenario and scenario should be derived from requirement and this the flow of writing test cases and also review the test cases.
+
+Testcase should be written to have focus of risk and the static and dynamic technique implemented as the measurement of test cases is the fault found which is actully increase the confidence.for writing the test cases many thing needs to keep focus as company to company process would be different but the concept of test case coverage should be define with the requirement and all the possible combination.
+
+There are different type of test cases review process and its define as below
+
+#1. Understand the fundamentle ,Before writting ( try to do some paper work before wrting test case )
+
+#2. Do self review and try to find the improvement not mistake
+
+#3. Ask developer/technicale expert for review.
+
+#4. Do review updated testcase
+
