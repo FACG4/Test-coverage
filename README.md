@@ -129,6 +129,10 @@ Why the funky name?
 Since all the good ones are taken.
  Comes from the loose association of ideas across coverage, carpet-area coverage, the country that makes good carpets and so on...
 
+# NYC
+
+The NYC Node module can be used to generate test coverage reports. These reports will track how much of the application code is covered by unit tests. If any code is not being called or tested, NYC will indicate the ‘uncovered’ lines in both the command line and the generated reporting page.
+
 ## Instrumenting your code
 You can install nyc as a development dependency and add it to the test stanza in your package.json.
 
