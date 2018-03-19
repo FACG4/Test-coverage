@@ -3,6 +3,10 @@
 ### What are Istanbul and nyc?
 ##### Istanbul - a JS code coverage tool written in JS. It computes statement, line, function and branch coverage. with module loader hooks to transparently add coverage when running tests. Supports all JS coverage use cases including unit tests, server side functional tests and browser tests.
 
+##### Features:
+* Well-tested on node (prev, current and next versions) and the browser (instrumentation library only).
+* Can be used on the command line as well as a library.
+*
 ##### > Getting started
 `$ npm install -g istanbul`
 
@@ -28,3 +32,5 @@ Why the funky name?
 
 Since all the good ones are taken.
  Comes from the loose association of ideas across coverage, carpet-area coverage, the country that makes good carpets and so on...
+
+ ## Instrumenting your code
