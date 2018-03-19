@@ -20,11 +20,12 @@
 
 8.Gaps in requirements, test cases and defects at unit level and code level can be found in an easy way.
 
-What Test Coverage does
-Finding area of a requirement not implemented by a set of test cases
-Helps to create additional test cases to increase coverage
-Identifying a quantitative measure of test coverage, which is an indirect method for quality check
-Identifying meaningless test cases that do not increase coverage
+What Test Coverage does?
+
+1.Finding area of a requirement not implemented by a set of test cases
+2.Helps to create additional test cases to increase coverage
+3.Identifying a quantitative measure of test coverage, which is an indirect method for quality check
+4.Identifying meaningless test cases that do not increase coverage
 
 
 ### What are Istanbul and nyc?
